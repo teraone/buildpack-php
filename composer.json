@@ -1,0 +1,13 @@
+{
+    "name": "teraone/buildpack-php",
+    "description": "teraone php buildpack",
+    "license": "apache",
+    "authors": [
+        {
+            "name": "sgotre",
+            "email": "gotre@teraone.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
