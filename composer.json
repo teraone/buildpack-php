@@ -1,6 +1,7 @@
 {
     "name": "teraone/buildpack-php",
     "description": "teraone php buildpack",
+    "version" : "0.0.1",
     "license": "apache",
     "authors": [
         {
